@@ -1,0 +1,216 @@
+***********************************************************************************
+******************   Digital Fiat Currency's (DXFC) Whitepaper   ******************
+***********************************************************************************
+
+***********************************************************************************
+***************   A Central Bank Digital Currency (CBDC) Proposal   ***************
+***********************************************************************************
+
+***********************************************************************************
+*********************************   July 4th, 2020   ******************************
+********************   INDEPENDENCE DAY from monetary policy   ******************** ***********************************************************************************
+
+***********************************************************************************
+*****************************  Whitepaper writtten by   ***************************
+***********************************************************************************
+*********************************   Craig Miller  *********************************
+****************************   Stash.IO a.k.a. Mono T.  ***************************
+***********************************************************************************
+
+"The world needs just enough governance.
+Too little is chaos.
+Too much is slavery..."
+
+***********************************************************************************
+   INTRODUCTION                                                     INTRODUCTION
+***********************************************************************************
+
+	Digital Fiat Currency (DXFC) is a digital asset in which any government, or citizen who is governed, can choose to transition from it's traditional fiat currency to a blockchain based digital asset (DA).  The transition will come with ENORMOUS benefits to both, it's citizens and the governments who wish to make the transition.  DXFC's whitepaper is a proposal to GLOBAL CENTRAL BANKS (GCB) to adopt a revolutionary digital version of its fiat currency.  DXFC will help automate budgeting and tax collection for governments.
+
+	Every governmental system, world-wide, provides services for it's citizens by collecting money from it's citizens, which come in the form of taxes.  Taxes come in many forms.  Citizens are taxed from income, property tax (based on property value) and sales taxes added to purchases.  Other types of taxes come in nearly COUNTLESS forms (CCFTax).  Specialty use case taxes, or CCFTax, such as social security, medicaid, medicare, capital gains, even the interest earned within a savings account gets taxed!  These special taxes are just a FEW EXAMPLES of tax collection methods adopted by governments around the globe to GENERATE INCOME through TAX REVENUE.
+
+	As you can see, our governments tax what we make and they also tax what what we buy.  This is unacceptable because citizens are taxed twice.  With the impementation of DXFC, citizens will never be taxed on their income or on what they purchase.  Which is what they have been taxed on for generations.  Citizens have been and are currently taxed on nearly EVERY transaction that takes place.
+
+	Governments even can produce income (TAX REVENUE) whether taxes are needed for WAR or another obligation.  EVEN WITH ALL OF THESE REVENUE STEAMS, governments STILL STRUGGLE WITH PROVIDING for it's citizens without falling further into DEBT.  DXFC adoption can give the governments the money they need to provide for it's citizens all while maintaining their budgets.
+
+
+	Without some form of taxes the world's governments could not exist as they do today.  DXFC is a solution to give governments the money needed to function without the need to tax it's citizens.
+
+
+	By reading the entirety of the DXFC Whitepaper you will understand...
+
+	...the need/use case for a government (or citizen) to transition from using it's traditional fiat currency to using a Digital Fiat Currency (DXFC).
+
+	...how blockchain technology can eliminate every citizen's obligation to pay taxes. DXFC's blockchain is programed to where the underlying currency (DXFC) generates taxes automatically.
+
+	...the pros* and cons* to government(s)/citizen(s) chosing to adopt DXFC to assist their native currency.
+
+
+***********************************************************************************
+   TABLE OF CONTENTS					       TABLE OF CONTENTS
+***********************************************************************************
+
+	--	Transitioning
+
+	--	Why should you or governments choose to use DA's?
+
+	--	TAXES:
+
+		--	Income
+		--	Sales
+		--	Social Security
+		--	Property
+		--	Government side
+
+	-	Determining a currency's percentage of return
+
+	-	Assets to be digitized based on asset class/type
+
+	-	Details of the proposed blockchain platform
+
+		-	Smart Contracts
+		-	Blockchain-to-blockchain transactions and fees
+		-	What keeps the blockchain secure?
+		-	Blockchain optimizations for extreme throughput and scalability
+
+			-	Compression
+			-	Raw Computing power dedicated for specific transactions
+			-	Proof of Existence Algorithm (PoEA)
+
+		D E V E L O P E R S :
+	-	What does our team get out of changing the world?
+
+	-	Credits
+
+	-	Ongoing Open-Source Projects
+
+	-	Contact Information
+
+
+***********************************************************************************
+   TRANSITIONING:                                                 THE TRANSITION
+***********************************************************************************
+
+	Transitioning from a fiat currency based system to a digital asset (DA) based system will not be nearly as complicated as one might imagine.  We already have the majority of our fiat currency in all types of banking, investment and retirement accounts which are soley based on transactions being processed digitally.  These transactions taking place between different banks, from savings to a checking account, or from any account to another account, all take place because the banks allow the transactions to take place between one another.  So, as you begin to picture what our existing fiat currency actually is, pretty much already a digital asset which gets transferred from an account to account to account until the money is either dispensed as paper currency to be used to pay a debt, or is transferred to, yet another account in which could be a payment, gift or purchase without the need to use the physical form of fiat currency.
+
+	Less than a quarter of fiat currency (*^1) is currenty exchanged or used for payments using the physical form, cash.  We have all come to accept that fiat currency is physically available, however, nearly 75% of transactions take place using a debit or credit card and without the need of fiat's physical form.  The idea of having a digital wallet with absolutely no way to be able to "print" out a physical form of the currency may sound scary to some and that is okay.  DXFC is being created to assist traditional fiat currencies, so the physical Dollars, Euros, Yen and Yuons you use to buy your coffee every morning can still be used for just that, buying coffee.
+
+
+***********************************************************************************
+   WHY USE DA'S?					       BENEFITS OF DA'S
+***********************************************************************************
+
+	The dawn of 'cryptocurrencies' proved that transactions can be faster and done much cheaper than is currently done with fiat.  These cryptocurrencies, or digital assets, all use a consensus mechanism to secure their decentralized networks and to place transactions within blocks.  The two most common are Proof of Work and Proof of Stake.  Learn more about Proof of Work (PoW) and Proof of Stake (PoS) and how the verification of transactions (a.k.a. "mining") happen by visiting the following URL: https://www.youtube.com/watch?v=-C19r0UsYws.
+
+	Anyone can look at a blockchain's ledger by using a block explorer.  Much like you can look at the ledger of your savings account, except that many blockchain ledgers are public.  Transactions involving information, data or an asset with monetary value are some of the things that you can pull up with most block explorers.  Some blockchains, like Z-Cash (ZEC), make transactions private to where only specific people can view the actual transaction.  Blockchains can both, make transactions viewable by anyone and make transactions private.
+
+	Blockchains are also programmed to function exactly by its core code.  Bitcoin Core is coded so that Bitcoin's inflation rate gets cut in half every 210,000 blocks (or about every 4 years).  There are many things that can work or happen autonomously by using a blockchain based digital asset.  Imagine a bank that invests customer's deposits into many different investments.  Let's say 30% goes to mutual funds, 30% to stocks and bonds and the remaining 40% is used for providing loans to other customers.  A savings customer makes a $1,000 deposit to their account.  The bank has preprogramed to allocate all future deposits into customer's savings accounts to where $300 gets added to mutual funds, $300 goes to a money market account for stock investment and $400 stays with the bank so they can provide loans to other customers.
+
+	DXFC uses a combination of consensus mechanisms.  It uses a Distributed Dedicated Entity Proof of Work (DDEPoW) consensus for unlimited scaleability for throughput/bandwidth.  And it also uses a new mechanism called Proof of Existence(PoE), which is similar to the Proof of Stake(PoS) mechanism.  PoE will be used by governments to make tax collection automatic and 100% accurate by using a Proof of Existence Algorithm (PoEA).
+
+	The PoEA has many functions which are mostly used for the generation of tax revenue and for autonomous budget allocation for governments.  The PoEA is a revolutionary concept which provides the tax revenue needed to equalize their budgets.  The algorithms main function is to calculate the amount of tax revenue that is generated by taxable events.  An employer paying an employee is an example of a taxable event, income tax, and all income tax brackets will be pre-programmed into the algorithm which will autonomously generate income taxes for every working citizen.
+
+	"You mean we won't have to file taxes every year?"
+
+	No need for filing taxes. Once DXFC is adopted and implemented, tax collection will become automatic by using the blockchain's programability (or DXFC Core).  Any changes to tax laws in which requires a change to how the PoEA generates taxes can be done periodically and also scheduled to begin on a specific block height (or specific time).
+
+
+***********************************************************************************
+   TAXES					       			  INCOME
+***********************************************************************************
+
+	The Proof of Existence Algorithm (PoEA) instantly calculates the taxes in which would be usually be "taken" from it's citizens.  It does this autonoumously.
+
+	Employers are required to use a special payroll account for each employee.  "Payroll accounts" can be created by a bank for small businesses.  Mid to large businesses who have an H.R. department/person should be able to create an employee's payroll account upon hiring by using a W-2 and the software provided by the company who does their payroll.  Payroll accounts are programmed to generate a specific amount of tax revenue for the government upon income being paid to those accounts.
+
+	Everyone who earns money through working is required to use a payroll account.  Income can be "forwarded" to go into any account the earner choses, but employers are required to send pay to an employee's payroll account.  If a wage earner has multiple payroll accounts, they will be linked by common information.  Multiple accounts belonging to a single person cannot have different W-2 information.  If a person has given a 2nd employer differing W-2 information, the most recent W-2 information will be used for all payroll accounts belonging to that person.  If married, both spouses payroll accounts will be linked to calculate the correct amount of income tax revenue generated.
+
+	For example, lets look at the current tax revenue system.  Creig makes $20 per hour as a machine operator.  When Creig works 40 hours during each week his "net" pay is $800.  However, depending on whether Creig works more or less hours this week or next, Creig will pay taxes accordingly.  Creig's employer uses a payroll company, but because of Creig's differing hours from week to week, they fail to pay taxes based on his W-2 allocations, the tax Creig owes will differ from the amount taken from his paycheck.  This differing amount is calculated at the end of the year and must be fulfilled by or reimbursed to Creig at year end.
+
+	Using the PoEA, the blockchain would automatically calculate the taxes in which need to be generated by Creig's payroll account.  It will account for weeks where Creig worked more or less hours for a more accurate tax accounting.  Every weekly pay period in which Creig worked 40 hours, he would receive $800 from his employer to do with as he pleases.  The PoEA calculates the income taxes in which Creig would have to pay (using current tax revenue system).  The income taxes calculated by the PoEA is not deducted from Creig's pay, its generated within a government's income tax collection account.  The tax money is NEVER in Creig's possession, but gets generated within the government's account.  The generation of income tax is calculated solely by Creig's filing status as it appears on his W-2 and the tax bracket he is expected to be within.  And if Creig's pay should increase or decrease throughout the year, the PoEA will make the necessary adjustments to the generation of tax revenue.
+
+	Not only is Creig's income tax calculated by the bracket he falls within, but other taxable event's in which Creig does throughout the year are calculated into his overall income.  Like the interest Creig earned in his savings account and even the money Creig donated to "giving wildlife a chance" can all be calculated to truely automate the generation of income tax revenue.
+
+***********************************************************************************
+   TAXES					       			   SALES
+***********************************************************************************
+
+	Sales tax will need to be programed into the DXFC's blockchain at the federal, state and local levels.  Once those governments agree on what the sales tax percentage should be and how much of that should be allocated to each tier of government, they can make changes accordingly.
+
+	Joey buys a laptop for $1,000.  He purchases the laptop at a computer store in Duluth, GA located within Gwinnett County.  Federal, state and the local governments have agreed that, with the sales of computers/electronics within this jurisdiction, 1% should go to federal, 2% to state and 3% to the two local municipalities (City of Duluth and Gwinnett County).  This means that the amount of taxes generated would be $60.  $10 to federal, $20 to state and $30 to split between the municipalities.  Joey uses his debit card to make the purchase and later looks at his mobile banking app to see that exactly $1,000 was deducted from his account.  The taxes in this example is newly minted money and were put into existence upon Joey's purchase of that laptop.  Also, this generated tax money was autonomously distributed into each government account based on the agreement between each tier of government.
+
+	In order for the PoEA to generate sales tax, all companies must have an account dedicated for depositing all sales revenue (batch processing or individually).  The sales revenue account for businesses will be much like the payroll accounts for workers.  The difference is sales accounts are used to generate tax revenue with a different calculation which is based on purchases.  Since different sales items may have a different sales tax applied, sales revenue accounts will need to be able to distinguish what items were sold, or the company could have multiple sales revenue accounts, one for each type of item they sell.
+
+***********************************************************************************
+   TAXES					       		 SOCIAL SECURITY
+***********************************************************************************
+
+	Social security taxes will be generated soley based on a citizen's contribution to the workforce.  It will be based on the average individual's "work-life" expectancy and the citizen's average annual income, and will change accordingly.  The government will need to evaluate each field/industry of work (manufacturing, sales, etc.) and calculate how many years an individual can expect to work in each field before retiring.  Also, within each industry, calculate the average age of retirement.  The national average retirement age will also be used in the calculations.
+
+	Sally works as a bartender.  The government has placed bartending within the "food-service" industry and their studies have shown people generally work within this field for 40 years before retiring and the average age at retirment for the food-service industry is 58.  Let's say Sally only works for 30 years before she retires at 58.  Since she worked for 75% of the "work-life" expectancy, she will get 75% of the social security benefit starting at age 58.  Sally's average annual income was $40,000.  We assume that social security is to only assist in retirement so a 100% benefit with average annual income of $40,000 would be $20,000 annually.  Sally will get 75% of the social security benefit and will receive $15,000 per year.  However, the retirement age is at 58 in Sally's case, lower than the overall average retirement age across all industries by 5 years.  Sally could wait until 63 to start collecting $15,000 annually.  Or she could subtract 5 years off the number of years she worked, 30 and claim that she only worked 25 years.  This would entitle her to 62.5% of the social security benefit, or $12,500 annual SS benefit.
+
+	No matter what Sally decides to do, the money within her social security account didn't exist until she files for social security benefits.  Also, the money is generated for social security benefits on a quarterly basis and will continue to be generated until the beneficiary has deceased.  Any money left within the beneficiary's account will be very minimal (due to quarterly distributions).  The remaining funds will be "burned", by sending them to the social security burn address.
+
+***********************************************************************************
+   TAXES					       			PROPERTY
+***********************************************************************************
+
+	The PoEA also instantly calculates real estate property taxes.  These instant evaluations are done based upon comparitive sales within the area (and not when the government decides to do the evaluations).  And these values will be generated within the government's excise/property tax account and not another tax obligation from it's citizens.
+
+	Once a residential or commercial real estate deal is closed the details of the property and the final sales price is filed with the local courthouse.  Local courthouses are required to update their records with every real estate closing.  The property's specs will need to be recorded including acreage, zoning, developed (true/false), address, GPS coordinates and condition.  The process will be nearly identical to the way real estate is done currently, but once the courthouse updates a property that has been sold/purchased, the underlying blockchain will automatically perform a reverse comparative market analysis (RCMA) on that newly sold property to make adjustments to the values of similar properties within the area.  Today, real estate agents and appraisers will perform a comparative market analysis (CMA) to help determine a property's price.  A CMA usually consists of finding 3 to 5 recently sold properties, in close proximity, that have similar specs to the property they are evaluating.
+
+	For example, Creig purchased his home for $650,000 May 2022.  In August 2024 comparitive homes have sold giving Creig's home a $1,000,000 evaluation.  Creig lives in a district where a 13% property tax is enforced.  Instead of Creig paying $13,000 in property taxes in 2024, the $13,000 is generated into the government's property tax account using the PoEA for the calculation.  Property values will be held as monetary placeholders, and cannot be included in the amount of money that is currently in existence/circulation.
+
+***********************************************************************************
+   TAXES					       		 GOVERNMENT SIDE
+***********************************************************************************
+
+	Taxes in which go directly into government tax collection accounts (from sales, income, etc.) are a special breed of newly generated money.  These new funds are different until the government spends the funds.  They will not generate more tax money upon spending.
+
+	Tax revenue is programed (and voted upon) by the government(s) to be generated within very specific use case accounts, budget accounts, which directly relate to the government's current budget allocations.  All budget accounts must have a purpose.  The DXFC blockchain will NOT generate tax money within a budget account which has no purpose for funding.  To add a new purpose, or a new budget account to send tax revenue to, a government must submit the purpose using the DXFC blockchain to be voted on.  When the proposal to be voted on is submitted to the DXFC blockchain, the other governments will have a predetermined number of blocks to vote.  If the proposal passes then, the government who made the proposal will have a predetermined number of blocks to add the function.  Once the function is added, all governments have the option to test out the functionality of the budget to make sure that it functions like it is supposed to before it can be implemented.
+
+	Government tax revenue is distributed to each budget account autonomously and can be programmed to be distributed by timeframe or by monetary amount.
+
+	If only 95% of taxes of any kind are allocated to a budget, then 5% gets generated within an account which is inaccessible until an annual reallocation.  This makes governments more aware of their allocations and reduces waste of money.  Those accounts generating tax money are restricted from deviating from the budget because funds are not transferrable between government budget accounts.  However, the government can easily modify their budget at any time to make adjustments to allocations.
+
+	Government's are allowed to do an annual reallocation of funds within their tax generating accounts.  Reallocation of 2% or less of all taxes generated within the year are allowed.  Exceeding 2% will incur a penalty of 50% of all funds in excess of the allowed 2% reallocation.  The penalty funds will be "burned" -- go into an account which is inaccessible via any software, client or node connected to the DXFC blockchain.  This is used to help with too much inflation.
+
+	The blockchain will come pre-programmed to perform all current functions of tax collection and have all budget accounts needed for each purpose all governments currently have a budget for.  If the time comes for a new purpose, a government must propose an idea and vote on it.  An example would be if the U.S. wants to impose a 37.5% tax on citizens earning in excess of $400,000, the U.S. would have to first propose the new tax and then allow other countries to vote.  If the new tax gets passed by a certain percentage of participants, it will be included within the User Interface to make the change.
+
+If a government would like to add a whole new function to the blockchain, the same process of proposing and voting must take place before the blockchain can be modified to perform the new function.  This includes new functionality that would benefit mankind.  Or could be as simple as a modification in the percentage government(s) can tax on sales/income/property.  ANY MODIFICATIONS in tax collection require a proposal to be voted upon.
+
+***********************************************************************************
+   BANKS								   Banks
+***********************************************************************************
+
+	All transactions can be viewed through a block explorer.  Banks are required to keep account of transactions by the use of publicly adding transactions to the ledger.  Banks must be able to maintain at least a full-node on the blockchain.  Nodes acting as a bank must be full-nodes and be synced with the blockchain in order to produce blocks.
+
+	Transactions on the blockchain will include memos in which can notify nodes to include them in blocks.  Transactions which have memos for specific banks will be added to the blockchain before transactions without memos.  A memo is apprehended to a transaction for the ease of the banking system to add it to the blockchain.  Transactions without memos or transactions sent without a clear destination are added to the blockchain after all other transactions are processed.  Any person or entity who can operate a full-node could potentially become a bank.  Transactions dealing with major banks will posess a memo in which will be processed by the major bank.  Smaller banks may incorporate a memo in which can be soley processed by the smaller bank.  Memos are aprehended to transactions to assure it's addition to the blockchain.  An entity could state that a memo begin with "hey", then notify their bank to process transactions which have memos that begin with "hey".
+
+	Let's say that Benjamin created a non-profit and has a bank account with Wells Fargo.  Wells Fargo requests that all clients use "Wells" within the memo in order to ensure that their transactions get processed.  Benjamin is collecting money from individuals who want to donate to the Coronovirus relief.  Benjamin advertises to deposit money into his account #, and with a memo that says "Wells Covid-19".  Benjamin notifies Wells Fargo and lets them know to look out for transactions with this memo.  Wells Fargo's nodes will be on the lookout for transactions including "Wells Covid-19".  And will add these transactions to the blockchain as soon as they are processed.
+
+	Let's say that Bob wants to loan money and become a bank.  Bob sets up a full-node on the USD-DXFC blockchain and fulfills all other requirements to becoming a bank.  Bob programs his node on the USD-DXFC blockchain and makes any transaction with the prefix of "BOBS BANK" become priority, for his node, to be included within a block.  Bob's bank becomes superior in loan origination and in turn becomes more popular.  If Bob cannot upgrade it's infrastructure properly, Bob may see a decline in people using his loan service.  So, not only do banks need to maintain a full-node, they also have to keep up with their own transaction throughput.  Also, creates a market for people who want to operate a full-node using a particular bank's settings either to earn money from the bank by helping them keep up with their load, or because their business has lots of transactions or has transactions which are time-sensitive.
+
+***********************************************************************************
+   How much tax can be generated?		       		 GOVERNMENT SIDE
+***********************************************************************************
+
+	All changes to the percentage of taxes in which can be generated is done through the main DXFC blockchain.  These changes are regulated strictly based on the global marketplace for such taxes.  Globally, governments must vote on what percentage of taxes is generated through each tax revenue stream.
+
+	Governments must place a "wholistic" percentage in which they can generate income taxes from it's citizens.  The same approach is needed for evaluation of property and sales taxes.  These percentages are voted upon by the World Economic Forum (W.E.F.) every quarter and the DXFC blockchain will be modified to conform to the derived values.  Any excess tax generation will be sent to the Global Economic Relief Fund (GERF) account.
+
+	The Global Economic Relief Fund account can only be accessed if 75% of the WEF votes in favor of accessing the account.  This fund exists ONLY because of disasters outside the creation of mankind exist or another type of economic failure like the COVID-19 pandemic earlier this year.  If a disaster should present itself the WEF should decide what to do with the funds to ensure that the human civilization remains as unchanged as possible.
+
+***********************************************************************************
+   D E V E L O P E R S						    What we get?
+***********************************************************************************
+
+	Developers of this project are entitled to an equivilent $1 million USD per currency in which adopts DXFC to aid in the transition of fiat currency to digital fiat currency.  Each $1 million USD will be distributed over the course of 40 years with an equal amount distributed each year as compensation for the developers efforts.
+
+	If 124 different currencies reside on the DXFC blockchain by 2030, the developers of the blockchain will be compensated $124 million ($3.1 Million / year until 2070).  This money will be autonomously generated into specific accounts in which only the developers have access.
+
+	Developers of this project will vote on the amount of money to be compensated to the writers and editors of this whitepaper.  The vote will take place on the DXFC blockchain at a predetermined block height.
+
+**********************************************************************************
+
+(*^1)  https://www.frbsf.org/cash/publications/fed-notes/2018/november/2018-findings-from-the-diary-of-consumer-payment-choice/
