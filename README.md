@@ -9,4 +9,6 @@ The project needs blockchain developers/engineers, programmers, writers, public 
 
 DXFC will function as the main blockchain connecting to every other blockchain based digital currency.  The DXFC blockchain has many purposes including instant currency exchange, a voting system, proposal system and will assist in compressing the side-chains.  Each digital currency will reside on it's own blockchain and is a side-chain of the DXFC blockchain.  So, every different currency (USD, EURO, GBP, JPY, etc) will be a side-chain of the DXFC blockchain.
 
+Currently researching options for crowdfunding the project.  This will enable the hiring of qualified personel, a larger online presence and a project that gets to the proposal stage of creating a CBDC.
+
 I will add to the readme as time permits and hope to see some contributors by the time I get back to adding!
