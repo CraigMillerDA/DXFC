@@ -3,7 +3,7 @@
 
 The goal of this project is to create a working version of a digital currency.  Once the project is mature enough, we will submit it to central banks around the world as a <b>Central Bank Digital Currency (CBDC) proposal</b>.  There are many CBDC proposals being submitted world-wide.  DXFC is unique because most, if not all, proposals only aim to replace a single currency, while DXFC aims to ASSIST any currency.  DXFC is also the only CBDC proposal to include tax generation as key component on how Central Banks can benefit from using digital currencies.
 
-Please take a look at the <b>"DXFC WhitepaperNEW.txt"</b> file within this repository for details.
+Please take a look at the <b><a href="https://raw.githubusercontent.com/CraigMillerDA/DXFC/master/DXFC%20WhitepaperNEW.txt">"DXFC WhitepaperNEW.txt"</a></b> file within this repository for details.
 
 The project needs blockchain developers/engineers, programmers, writers, public speakers and economists to name a few.  Anyone can contribute to the project and any contributions are greatly appreciated.
 
